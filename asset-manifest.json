@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/karthikhruth11-hash/react1/static/css/main.9a9891c3.css",
-    "main.js": "/karthikhruth11-hash/react1/static/js/main.ea2474cf.js",
-    "index.html": "/karthikhruth11-hash/react1/index.html",
-    "main.9a9891c3.css.map": "/karthikhruth11-hash/react1/static/css/main.9a9891c3.css.map",
-    "main.ea2474cf.js.map": "/karthikhruth11-hash/react1/static/js/main.ea2474cf.js.map"
+    "main.css": "/react1/static/css/main.9a9891c3.css",
+    "main.js": "/react1/static/js/main.ea2474cf.js",
+    "index.html": "/react1/index.html",
+    "main.9a9891c3.css.map": "/react1/static/css/main.9a9891c3.css.map",
+    "main.ea2474cf.js.map": "/react1/static/js/main.ea2474cf.js.map"
   },
   "entrypoints": [
     "static/css/main.9a9891c3.css",
